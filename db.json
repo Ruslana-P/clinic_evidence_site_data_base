@@ -1,12 +1,9 @@
 [
-   "users": [ {
-    "id": 1,
-    "name": "name1",
-    "data": "some data1"
-  },
-  {
-    "id": 2,
-    "name": "name2",
-    "data": "some data2"
-  }]
+   "users": [ 
+      { "id": 1, "name": "name1", "data": "some data1" },
+      { "id": 2, "name": "name2", "data": "some data2"} ],
+   "posts": [
+      {"posts1" : "post 1 information"},
+      {"posts2" : "post 2 information"},
+   ]
 ]
