@@ -1,1 +1,12 @@
-
+[
+  {
+    "id": 1,
+    "name": "name1",
+    "data": "some data1"
+  },
+  {
+    "id": 1,
+    "name": "name1",
+    "data": "some data1"
+  }
+]
